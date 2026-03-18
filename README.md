@@ -53,7 +53,7 @@ Already have a Base64 string and want to sanity-check what image it came from? W
 
 ### GUI
 ```bash
-python img_to_base64_gui.py
+python img_to_base64.py
 ```
 Browse or drag-and-drop an image, choose your options, hit **Convert**.
 
