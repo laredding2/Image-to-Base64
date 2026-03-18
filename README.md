@@ -45,8 +45,7 @@ Already have a Base64 string and want to sanity-check what image it came from? W
 
 | File | Purpose |
 |------|---------|
-| `img_to_base64.py` | Command-line tool |
-| `img_to_base64_gui.py` | Desktop GUI (tkinter) |
+| `img_to_base64.py` | Desktop GUI (tkinter) |
 
 ---
 
